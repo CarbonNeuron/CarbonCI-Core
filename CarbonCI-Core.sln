@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarbonCI-Core", "CarbonCI-Core\CarbonCI-Core.csproj", "{F61FD82B-5BFC-4BAA-80A8-08F76D5BEEF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F61FD82B-5BFC-4BAA-80A8-08F76D5BEEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F61FD82B-5BFC-4BAA-80A8-08F76D5BEEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F61FD82B-5BFC-4BAA-80A8-08F76D5BEEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F61FD82B-5BFC-4BAA-80A8-08F76D5BEEF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
